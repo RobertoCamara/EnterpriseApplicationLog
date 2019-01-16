@@ -18,7 +18,14 @@ namespace EnterpriseApplicationLogApp
 
         public static void Main(string[] args)
         {
-            var factory = new ConnectionFactory() { HostName = "192.168.1.248", Port = 5672, VirtualHost = "EnterpriseLog", UserName = "logUser", Password = "logPwd" };
+            Configurations _config = Startup.Configurations;
+
+            var factory = new ConnectionFactory() { HostName = _config.ConfigurationRabbitMQ.Hostname,
+                                                    Port = _config.ConfigurationRabbitMQ.Port,
+                                                    VirtualHost = _config.ConfigurationRabbitMQ.VirtualHost,
+                                                    UserName = _config.ConfigurationRabbitMQ.Username,
+                                                    Password = _config.ConfigurationRabbitMQ.Password };
+
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {

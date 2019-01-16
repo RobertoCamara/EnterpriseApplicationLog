@@ -1,0 +1,12 @@
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\bin\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.deps.json
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\bin\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.runtimeconfig.json
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\bin\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.runtimeconfig.dev.json
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\bin\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.dll
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\obj\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.csprojAssemblyReference.cache
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\obj\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.csproj.CoreCompileInputs.cache
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\obj\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.AssemblyInfoInputs.cache
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\obj\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.AssemblyInfo.cs
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\bin\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.pdb
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\obj\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.dll
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\obj\Debug\netcoreapp2.1\EnterpriseApplicationLogApp.pdb
+C:\Roberto\_AzureDevOps\_Git\EnterpriseApplicationLog\src\EnterpriseApplicationLogApp\bin\Debug\netcoreapp2.1\appsettings.json
